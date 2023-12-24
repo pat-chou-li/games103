@@ -363,6 +363,9 @@
 "Assets/player.cs"
 "Assets/rigid/Rigid_Bunny.cs"
 "Assets/rigid/Rigid_Bunny_by_Shape_Matching.cs"
+"Assets/Shader/Bloom.cs"
+"Assets/Shader/EdgeDetection.cs"
+"Assets/Shader/PostEffectesBase.cs"
 -langversion:9.0
 
 /deterministic

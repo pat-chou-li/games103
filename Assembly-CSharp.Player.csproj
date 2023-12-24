@@ -46,9 +46,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\rigid\Rigid_Bunny.cs" />
+     <Compile Include="Assets\Shader\EdgeDetection.cs" />
+     <Compile Include="Assets\Shader\Bloom.cs" />
      <Compile Include="Assets\FVM\FVM.cs" />
      <Compile Include="Assets\player.cs" />
      <Compile Include="Assets\FVM\Camera_Motion.cs" />
+     <Compile Include="Assets\Shader\PostEffectesBase.cs" />
      <Compile Include="Assets\rigid\Rigid_Bunny_by_Shape_Matching.cs" />
      <Compile Include="Assets\FVM\SVD.cs" />
      <Compile Include="Assets\cloth\PBD_model.cs" />
